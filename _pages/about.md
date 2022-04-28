@@ -18,9 +18,9 @@ News
 
 Publications
 ======
-1. On Hard Episodes in Meta-Learning (arXiv)
-2. Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling (Under Review)
-3. Influence Functions in Deep Learning are Fragile (ICLR 2021)
-4. On Second-Order Group Influence Functions for Black-Box Predictions (ICML 2020)
-5. Membership Model Inversion Attacks for Deep Networks (NeurIPS 2020 - Workshop)
+1. [On Hard Episodes in Meta-Learning](https://arxiv.org/abs/2110.11190) (arXiv)
+2. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) (Under Review)
+3. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) (ICLR 2021)
+4. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) (ICML 2020)
+5. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257) (NeurIPS 2020 - Workshop)
 
