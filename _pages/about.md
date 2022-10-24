@@ -12,7 +12,7 @@ Hi, I am Samyadeep Basu, a 1st year CS PhD student at UMD, College Park (2022 - 
 
 News 
 ======
- (September 2022): Finished a research internship at Microsoft Research working with [Daniela Massiceti](https://www.microsoft.com/en-us/research/people/dmassiceti/) on few-shot learning!
+ (September 2022): Finished an amazing research internship at Microsoft Research working with [Daniela Massiceti](https://www.microsoft.com/en-us/research/people/dmassiceti/) on few-shot learning!
  
  (Feb 2022): Started my PhD to work on few-shot learning and model interpretability!
 
@@ -26,5 +26,5 @@ Publications
 
 Other
 ======
-1. Topic Segmentation in the Wild: Towards Segmentation of Structured and Unstructured Data (NeurIPS 2022 - ENLSP)
+1. [Topic Segmentation in the Wild: Towards Segmentation of Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) (NeurIPS 2022 - ENLSP)
 
