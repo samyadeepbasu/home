@@ -12,7 +12,8 @@ Hi, I am Samyadeep Basu, a 1st year CS PhD student at UMD, College Park (2022 - 
 
 News 
 ======
- (Jan 2023): Paper accepted at ICLR 2023!
+ (Jan 2023): 1st Paper from PhD accepted at ICLR 2023!
+ 
  (September 2022): Finished an amazing research internship at [Microsoft Research](https://www.microsoft.com/en-us/research/) working with [Daniela Massiceti](https://www.microsoft.com/en-us/research/people/dmassiceti/) on few-shot learning!
  
  (Feb 2022): Started my PhD to work on few-shot learning and model interpretability!
