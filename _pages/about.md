@@ -25,5 +25,5 @@ Publications
 3. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) (ICLR 2021)
 4. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) (ICML 2020)
 5. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257) (NeurIPS 2020 - Workshop)
-6. [Topic Segmentation in the Wild: Towards Segmentation of Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) (NeurIPS 2022 - ENLSP)
+6. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) (NeurIPS 2022 - ENLSP)
 
