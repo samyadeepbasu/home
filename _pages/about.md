@@ -20,10 +20,11 @@ News
 
 Publications
 ======
-1. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) (ICLR 2023)
-2. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) (NAACL 2022 (Suki Workshop))
-3. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) (ICLR 2021)
-4. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) (ICML 2020)
-5. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257) (NeurIPS 2020 - Workshop)
-6. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) (NeurIPS 2022 - ENLSP)
+1.[Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://samyadeepbasu.github.io/) (Under Review)
+2. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) (ICLR 2023)
+3. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) (NAACL 2022 (Suki Workshop))
+4. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) (ICLR 2021)
+5. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) (ICML 2020)
+6. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257) (NeurIPS 2020 - Workshop)
+7. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) (NeurIPS 2022 - ENLSP)
 
