@@ -46,6 +46,6 @@ Publications
   > We propose an early inversion technique using GANs to do membership inference!
 7. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) 
 
-  **NeurIPS 2022 - ENLSP**
+   **NeurIPS 2022 - ENLSP**
   > Understanding the efficacy of topic segmentation models on unstructured texts.
 
