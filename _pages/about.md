@@ -25,8 +25,13 @@ Publications
 2. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) (ICLR 2023) [Code](https://github.com/Samyadeep/HardMD)
   > We propose a fast algorithm - FastDiffSel which can extract difficult few-shot tasks in a computational efficient way from large vision datasets!
 3. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) (NAACL 2022 (Suki Workshop))
+  > Propose empirical strategies to improve few-shot performance for joint intent classification and slot-filling.
 4. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) (ICLR 2021)
+  > End to end analysis of influence functions in deep learning!
 5. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) (ICML 2020)
+  > We propose second-order group influence functions, which are better suited to handle group effects!
 6. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257) (NeurIPS 2020 - Workshop)
+  > We propose an early inversion technique using GANs to do membership inference!
 7. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) (NeurIPS 2022 - ENLSP)
+  > Understanding the efficacy of topic segmentation models on unstructured texts.
 
