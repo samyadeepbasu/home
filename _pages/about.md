@@ -12,6 +12,8 @@ Hi, I am Samyadeep Basu, a 2nd year (3rd semester) CS PhD student at UMD, Colleg
 
 News 
 ======
+ (June 2023): Started internship at Adobe Research! Working on understanding text-to-image generative models!
+ 
  (April 2023): Our new pre-print on PEFT modules for few-shot fine-tuning is on [arXiv](https://arxiv.org/abs/2304.01917)!
  
  (Jan 2023): 1st Paper from PhD accepted at ICLR 2023!
