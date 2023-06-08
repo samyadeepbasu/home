@@ -22,7 +22,11 @@ News
 
 Publications
 ======
-1. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
+0. [Benchmarking Text-Guided Image Editing Methods](samyadeepbasu.github.io)
+    **Under Review** [Code Coming Soon!] (samyadeepbasu.github.io)
+    > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
+    
+2. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
 
    **Under Review** [Code](https://github.com/Samyadeep/)
   > We propose two easy-to-implement strong baselines for PEFT which leads to SoTA on MD!
