@@ -22,8 +22,8 @@ News
 
 Publications
 ======
-0. [Benchmarking Text-Guided Image Editing Methods](https://samyadeepbasu.github.io)
-1. 
+1. [Benchmarking Text-Guided Image Editing Methods](https://samyadeepbasu.github.io)
+ 
     **Under Review** [Code Coming Soon!](https://samyadeepbasu.github.io)
     > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
     
