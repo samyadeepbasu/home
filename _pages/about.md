@@ -24,36 +24,41 @@ News
 
 Publications
 ======
-1. [Benchmarking Text-Guided Image Editing Methods](https://samyadeepbasu.github.io)
+1. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://samyadeepbasu.github.io)
+
+   **Under Review** (https://samyadeepbasu.github.io)
+   > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
+     
+2. [Benchmarking Text-Guided Image Editing Methods](https://samyadeepbasu.github.io)
  
    **Under Review** [Code Coming Soon!](https://samyadeepbasu.github.io)
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
     
-2. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
+3. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
 
    **Under Review** [Code](https://github.com/Samyadeep/)
   > We propose two easy-to-implement strong baselines for PEFT which leads to SoTA on MD!
-2. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) 
+4. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) 
 
    **ICLR 2023** [Code](https://github.com/Samyadeep/HardMD)
   > We propose a fast algorithm - FastDiffSel which can extract difficult few-shot tasks in a computational efficient way from large vision datasets!
-3. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) 
+5. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) 
 
    **NAACL 2022 (SUKI)**
   > Propose empirical strategies to improve few-shot performance for joint intent classification and slot-filling.
-4. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
+6. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
     
     **ICLR 2021**
   > End to end analysis of influence functions in deep learning!
-5. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
+7. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
 
    **ICML 2020**
   > We propose second-order group influence functions, which are better suited to handle group effects!
-6. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257)
+8. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257)
   
    **NeurIPS 2020(w)**
   > We propose an early inversion technique using GANs to do membership inference!
-7. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) 
+9. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) 
 
    **NeurIPS 2022 - ENLSP**
   > Understanding the efficacy of topic segmentation models on unstructured texts.
