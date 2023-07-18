@@ -24,9 +24,9 @@ News
 
 Publications
 ======
-1. [Augmenting CLIP with Improved Visio-Linguistic Reasoning]
+1. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://samyadeepbasu.github.io)
 
-   **Under Review** (https://samyadeepbasu.github.io)
+   **Under Review**
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
      
 2. [Benchmarking Text-Guided Image Editing Methods](https://samyadeepbasu.github.io)
