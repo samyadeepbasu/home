@@ -57,7 +57,7 @@ Publications
   > Propose empirical strategies to improve few-shot performance for joint intent classification and slot-filling.
 7. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
     
-  **ICLR 2021**
+    **ICLR 2021**
   > End to end analysis of influence functions in deep learning!
 8. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
 
@@ -69,6 +69,6 @@ Publications
   > We propose an early inversion technique using GANs to do membership inference!
 10. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) 
 
-   **NeurIPS 2022 - ENLSP**
+     **NeurIPS 2022 - ENLSP**
   > Understanding the efficacy of topic segmentation models on unstructured texts.
 
