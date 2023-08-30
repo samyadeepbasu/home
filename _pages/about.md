@@ -40,7 +40,7 @@ Publications
      
 4. [Benchmarking Text-Guided Image Editing Methods](https://samyadeepbasu.github.io)
  
-   **Under Review** [Code Coming Soon!](https://samyadeepbasu.github.io)
+   **Under Review** [Code](https://samyadeepbasu.github.io)
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
     
 4. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
@@ -57,7 +57,7 @@ Publications
   > Propose empirical strategies to improve few-shot performance for joint intent classification and slot-filling.
 7. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
     
-    **ICLR 2021**
+  **ICLR 2021**
   > End to end analysis of influence functions in deep learning!
 8. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
 
