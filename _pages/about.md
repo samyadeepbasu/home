@@ -49,7 +49,7 @@ Publications
   > We propose two easy-to-implement strong baselines for PEFT which leads to SoTA on MD!
 5. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) 
 
-   **ICLR 2023** [Code](https://github.com/Samyadeep/HardMD) [Media Coverage](https://www.microsoft.com/en-us/research/blog/frontiers-of-multimodal-learning-a-responsible-ai-approach/)
+   **ICLR 2023** [Code](https://github.com/Samyadeep/HardMD) / [Media Coverage](https://www.microsoft.com/en-us/research/blog/frontiers-of-multimodal-learning-a-responsible-ai-approach/)
   > We propose a fast algorithm - FastDiffSel which can extract difficult few-shot tasks in a computational efficient way from large vision datasets!
 6. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) 
 
