@@ -30,7 +30,7 @@ Publications
 ======
 1. [Locating Knowledge in Text-to-Image Models and Ablating Concepts With It](https://samyadeepbasu.github.io)
    
-   **In Submission**
+   **Under Review**
    > We propose an interpretability framework + model editing method to ablate concepts from text-to-image models, fast!
    
 3. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
