@@ -33,12 +33,12 @@ Publications
    **Under Review**
    > We propose an interpretability framework + model editing method to ablate concepts from text-to-image models, fast!
    
-3. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
+2. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
 
    **Under Review**
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
      
-4. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
+3. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
  
    **Under Review** [Code](https://samyadeepbasu.github.io)
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
