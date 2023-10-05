@@ -38,7 +38,7 @@ Publications
    **Under Review**
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
      
-4. [Benchmarking Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
+4. [EditVal: Benchmarking Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
  
    **Under Review** [Code](https://samyadeepbasu.github.io)
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
