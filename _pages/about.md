@@ -44,7 +44,7 @@ Publications
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
 
 4. [On Surgical Finetuning for Language Encoders](https://samyadeepbasu.github.io)
-   
+   > Method to surgically finetune language encoders with a subset of layers to perform close to full-finetuning!
    **EMNLP 2023**
     
 5. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
@@ -71,8 +71,4 @@ Publications
   
    **NeurIPS 2020(w)**
   > We propose an early inversion technique using GANs to do membership inference!
-11. [Topic Segmentation in the Wild: Towards Segmentation of Semi-Structured and Unstructured Data](https://neurips2022-enlsp.github.io/) 
-
-     **NeurIPS 2022 - ENLSP**
-  > Understanding the efficacy of topic segmentation models on unstructured texts.
 
