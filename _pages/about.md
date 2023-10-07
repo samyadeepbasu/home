@@ -44,10 +44,10 @@ Publications
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
 
 4. [On Surgical Finetuning for Language Encoders](https://samyadeepbasu.github.io)
+
+   **EMNLP 2023**
    > Method to surgically finetune language encoders with a subset of layers to perform close to full-finetuning!
    
-   **EMNLP 2023**
-    
 5. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
 
    **Under Review** [Code](https://github.com/Samyadeep/)
