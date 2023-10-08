@@ -28,7 +28,7 @@ News
 
 Publications
 ======
-1. [Locating Knowledge in Text-to-Image Models and Ablating Concepts With It](https://samyadeepbasu.github.io)
+1. [Localizing and Editing Knowledge in Text-to-Image Models](https://samyadeepbasu.github.io)
    
    **Under Review**
    > We propose an interpretability framework + model editing method to ablate concepts from text-to-image models, fast!
