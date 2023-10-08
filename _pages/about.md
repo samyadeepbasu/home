@@ -62,7 +62,7 @@ Publications
   > Propose empirical strategies to improve few-shot performance for joint intent classification and slot-filling.
 8. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
     
-  **ICLR 2021**
+   **ICLR 2021**
   > End to end analysis of influence functions in deep learning!
 9. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
 
@@ -70,6 +70,6 @@ Publications
   > We propose second-order group influence functions, which are better suited to handle group effects!
 10. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257)
   
-  **NeurIPS 2020(w)**
+   **NeurIPS 2020(w)**
   > We propose an early inversion technique using GANs to do membership inference!
 
