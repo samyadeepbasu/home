@@ -50,7 +50,7 @@ Publications
    
 5. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
 
-   **Under Review** [Code](https://github.com/Samyadeep/)
+   **AAAI 2024** [Code](https://github.com/Samyadeep/)
   > We propose two easy-to-implement strong baselines for PEFT which leads to SoTA on MD!
 6. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) 
 
