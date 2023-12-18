@@ -12,6 +12,8 @@ Hi, I am Samyadeep Basu, a 2nd year (3rd semester) CS PhD student at UMD, Colleg
 
 News 
 ======
+ (December 2023) : Paper on few-shot finetuning accepted to AAAI 2024!
+ 
  (August-October 2023): Starting a part-time research internship with Adobe Research till December!; Paper Accepted to EMNLP 2023!
  
  (July 2023): Excited to announce two new projects : (i) Improving CLIP using knowledge distillation from diffusion models; (ii) Benchmark for text-guided  image editing methods! 
