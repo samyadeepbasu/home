@@ -12,6 +12,8 @@ Hi, I am Samyadeep Basu, a 2nd year CS PhD student at UMD, College Park (2022 - 
 
 News 
 ======
+ (January 2024) : Paper on diffusion model interpretability accepted to ICLR 2024!
+ 
  (December 2023) : Paper on few-shot finetuning accepted to AAAI 2024!
  
  (August-October 2023): Starting a part-time research internship with Adobe Research till December!; Paper Accepted to EMNLP 2023!
@@ -32,7 +34,7 @@ Publications
 ======
 1. [Localizing and Editing Knowledge in Text-to-Image Models](https://arxiv.org/abs/2310.13730)
    
-   **Under Review**
+   **ICLR 2024**
    > We propose an interpretability framework + model editing method to ablate concepts from text-to-image models, fast!
    
 2. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
