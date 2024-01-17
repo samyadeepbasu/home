@@ -24,12 +24,14 @@ News
  
  (April 2023): Our new pre-print on PEFT modules for few-shot fine-tuning is on [arXiv](https://arxiv.org/abs/2304.01917)!
  
- (Jan 2023): 1st Paper from PhD accepted at ICLR 2023!
+ (Jan 2023): Paper on algorithm to design difficult few-shot tasks accepted at ICLR 2023!
  
  (September 2022): Finished an amazing research internship at [Microsoft Research](https://www.microsoft.com/en-us/research/) working with [Daniela Massiceti](https://www.microsoft.com/en-us/research/people/dmassiceti/) on few-shot learning!
  
  (Feb 2022): Started my PhD to work on few-shot learning and model interpretability!
 
+ (October 2020 - Jan 2022) : Break from Grad School to work at Microsoft AI as an Applied Scientist!
+ 
  (Feb 2021): Papers on influence functions at ICLR 2021 and ICML 2020!
 
 Publications
