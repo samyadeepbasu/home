@@ -14,7 +14,7 @@ News
 ======
  (January 2024) : Paper on diffusion model interpretability accepted to ICLR 2024!
  
- (December 2023) : Paper on few-shot finetuning accepted to AAAI 2024!
+ (December 2023) : Paper on few-shot finetuning for vision models accepted to AAAI 2024!
  
  (August-October 2023): Paper on surgical fine-tuning for "small" language models accepted to EMNLP 2023!
  
