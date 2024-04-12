@@ -12,6 +12,11 @@ Hi, I am Samyadeep Basu, a 3rd year CS PhD student at UMD, College Park (2022 - 
 
 News 
 ======
+
+ (April 2024): Excited to be rejoining Adobe Research for a summer internship to work on small language models! 
+ 
+ (February, March 2024): (i) Started an internship at Microsoft Research working on interpretability for multimodal language models!  (ii) Submitted 1 paper to ICML and 2 papers to ECCV 2024!
+ 
  (January 2024) : Paper on diffusion model interpretability accepted to ICLR 2024!
  
  (December 2023) : Paper on few-shot finetuning for vision models accepted to AAAI 2024!
