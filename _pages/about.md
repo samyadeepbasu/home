@@ -42,6 +42,7 @@ News
 Publications
 ======
 1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://samyadeepbasu.github.io)
+   
    **ICML 2024**
    > We investigate cross-attention layers in text-to-image models on knowledge storage!
      
