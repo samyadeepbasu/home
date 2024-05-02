@@ -86,8 +86,5 @@ Publications
 
    **ICML 2020**
   > We propose second-order group influence functions, which are better suited to handle group effects!
-11. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257)
-  
-    **NeurIPS 2020(w)**
-  > We propose an early inversion technique using GANs to do membership inference!
+
 
