@@ -41,47 +41,51 @@ News
 
 Publications
 ======
-1. [Localizing and Editing Knowledge in Text-to-Image Models](https://arxiv.org/abs/2310.13730)
+1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://samyadeepbasu.github.io)
+   **ICML 2024**
+   > We investigate cross-attention layers in text-to-image models on knowledge storage!
+     
+2. [Localizing and Editing Knowledge in Text-to-Image Models](https://arxiv.org/abs/2310.13730)
    
    **ICLR 2024**
    > We propose an interpretability framework + model editing method to ablate concepts from text-to-image models, fast!
    
-2. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
+3. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
 
    **Under Review**
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
      
-3. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
+4. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
  
    **Under Review** [Code](https://samyadeepbasu.github.io)
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
 
-4. [On Surgical Finetuning for Language Encoders](https://samyadeepbasu.github.io)
+5. [On Surgical Finetuning for Language Encoders](https://samyadeepbasu.github.io)
 
    **EMNLP 2023**
    > Method to surgically finetune language encoders with a subset of layers to perform close to full-finetuning!
    
-5. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
+6. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
 
    **AAAI 2024** [Code](https://github.com/Samyadeep/)
   > We propose two easy-to-implement strong baselines for PEFT which leads to SoTA on MD!
-6. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) 
+7. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) 
 
    **ICLR 2023** [Code](https://github.com/Samyadeep/HardMD) / [Media Coverage](https://www.microsoft.com/en-us/research/blog/frontiers-of-multimodal-learning-a-responsible-ai-approach/)
   > We propose a fast algorithm - FastDiffSel which can extract difficult few-shot tasks in a computational efficient way from large vision datasets!
-7. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) 
+8. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) 
 
    **NAACL 2022 (SUKI)**
   > Propose empirical strategies to improve few-shot performance for joint intent classification and slot-filling.
-8. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
+9. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
     
    **ICLR 2021**
   > End to end analysis of influence functions in deep learning!
-9. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
+10. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
 
    **ICML 2020**
   > We propose second-order group influence functions, which are better suited to handle group effects!
-10. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257)
+11. [Membership Model Inversion Attacks for Deep Networks](https://arxiv.org/abs/1910.04257)
   
     **NeurIPS 2020(w)**
   > We propose an early inversion technique using GANs to do membership inference!
