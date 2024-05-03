@@ -85,7 +85,7 @@ Publications
 
 10. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
 
-   **ICML 2020**
+     **ICML 2020**
   > We propose second-order group influence functions, which are better suited to handle group effects!
 
 
