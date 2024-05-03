@@ -41,7 +41,7 @@ News
 
 Publications
 ======
-1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://samyadeepbasu.github.io)
+1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://arxiv.org/abs/2405.01008))
    
    **ICML 2024**
    > We investigate cross-attention layers in text-to-image models on knowledge storage!
@@ -82,6 +82,7 @@ Publications
     
    **ICLR 2021**
   > End to end analysis of influence functions in deep learning!
+
 10. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
 
    **ICML 2020**
