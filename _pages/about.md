@@ -12,10 +12,11 @@ Hi, I am Samyadeep Basu, a 3rd year CS PhD student at UMD, College Park (2022 - 
 
 News 
 ======
-
+ (May 2024): Submitted multiple papers to NeurIPS on: (i) Multimodal VQA models, (ii) compositionality in t2i models, (iii) internal mechanistic understanding of ViTs and (iv) a new framework for copyright attribution in t2i models! 
+ 
  (April 2024): Excited to be rejoining Adobe Research for a summer internship to work on small language models! 
  
- (February, March 2024): (i) Started an internship at Microsoft Research working on interpretability for multimodal language models!  (ii) Submitted 1 paper to ICML and 2 papers to ECCV 2024!
+ (Jan 2024 - May 2024): Started an internship at Microsoft Research working on interpretability for multimodal language models!
  
  (January 2024) : Paper on diffusion model interpretability accepted to ICLR 2024!
  
