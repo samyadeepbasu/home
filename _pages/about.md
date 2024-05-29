@@ -14,7 +14,7 @@ News
 ======
  (May 2024): Submitted multiple papers to NeurIPS on: (i) Multimodal VQA models, (ii) compositionality in t2i models, (iii) internal mechanistic understanding of ViTs and (iv) a new framework for copyright attribution in t2i models! 
  
- (April 2024): Excited to be rejoining Adobe Research for a summer internship to work on small language models! 
+ (April 2024): Excited to be rejoining Adobe Research for a summer internship to work on small language models!; Paper on diffusion model editing accepted to ICML 2024!
  
  (Jan 2024 - May 2024): Started an internship at Microsoft Research working on interpretability for multimodal language models!
  
