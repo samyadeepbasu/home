@@ -40,7 +40,17 @@ News
  
  (Feb 2021): Papers on influence functions at ICLR 2021 and ICML 2020!
 
-Publications
+**Recent Preprints**
+======
+1. [Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP](https://arxiv.org/abs/2406.01583)
+  
+2. [Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models](https://arxiv.org/abs/2404.08030)
+
+3. [Understanding Information Storage and Transfer in Multimodal Language Models](https://arxiv.org/abs/2404.08030)
+
+4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2404.08030)
+
+Selected Publications
 ======
 1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://arxiv.org/abs/2405.01008))
    
@@ -54,7 +64,7 @@ Publications
    
 3. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
 
-   **Under Review**
+   **arXiv**
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
      
 4. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
