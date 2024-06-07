@@ -43,12 +43,20 @@ News
 **Recent Preprints**
 ======
 1. [Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP](https://arxiv.org/abs/2406.01583)
+
+   > We interpret different components of vision transformers using text!
   
 2. [Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models](https://arxiv.org/abs/2404.08030)
 
+   > A new framework for copyright infringement detection from text-to-image models!
+
 3. [Understanding Information Storage and Transfer in Multimodal Language Models](https://arxiv.org/html/2406.04236v1)
 
+   > Causality based approaches for model interpretability and editing methods extended to multimodal language models (e.g., LLaVa) 
+
 4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2404.08030)
+
+   > We find two sources of error which leads to erroneous compositionality in text-to-image models and mitigate it with a strong baseline!
 
 Selected Publications
 ======
