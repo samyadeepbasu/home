@@ -46,7 +46,7 @@ News
   
 2. [Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models](https://arxiv.org/abs/2404.08030)
 
-3. [Understanding Information Storage and Transfer in Multimodal Language Models](https://arxiv.org/abs/2404.08030)
+3. [Understanding Information Storage and Transfer in Multimodal Language Models]((https://arxiv.org/html/2406.04236v1))
 
 4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2404.08030)
 
