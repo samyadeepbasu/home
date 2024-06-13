@@ -54,7 +54,7 @@ News
 
    > Causality based approaches for model interpretability and editing methods extended to multimodal language models (e.g., LLaVa) 
 
-4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2404.08030)
+4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2406.07844)
 
    > We find two sources of error which leads to erroneous compositionality in text-to-image models and mitigate it with a strong baseline!
 
