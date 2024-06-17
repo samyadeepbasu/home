@@ -59,6 +59,11 @@ News
 4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2406.07844)
 
    > We find two sources of error which leads to erroneous compositionality in text-to-image models and mitigate it with a strong baseline!
+   
+5. [From RAG to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries](samyadeepbasu.github.io)
+
+   > We mechanistically show a strong bias of language models towards using the context rather than using the parametric memory! Short paper.
+   
 
 Selected Publications
 ======
@@ -74,7 +79,7 @@ Selected Publications
    
 3. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
 
-   **arXiv**
+   **Under Review**
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
      
 4. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
