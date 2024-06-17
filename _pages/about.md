@@ -10,6 +10,8 @@ redirect_from:
 
 Hi, I am Samyadeep Basu, a 3rd year CS PhD student at UMD, College Park (2022 - Present). I work with [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/) in the [Center for Machine Learning](https://ml.umd.edu/). My research focus is reliable deep learning encompassing methods to learn from data with limited supervision (few-shot learning), model interpretability (how to understand decision making process of deep networks), robustness and more recently vision+language. Previously I received my MS from UMD in 2020 and then spent close to two years at Microsoft AI in the [ML rotation program](https://www.microsoftnewengland.com/maidap/). During my stint at Microsoft AI, I worked with the Language Science Team at [Azure AI](https://www.microsoft.com/en-us/research/group/cognitive-services-research/knowledge-and-language/) and [MSAI](https://www.microsoft.com/en-us/research/group/artificial-intelligence-research-munich/) where I researched, developed and deployed large-scale language models for various scenarios. My latest CV can be accessed at [CV-Link](https://drive.google.com/file/d/14a3zZ0QdHZ_rDM7zNZuwaqfO1u7iu9hG/view?usp=share_link).
 
+**Note: I am looking for Research Scientist positions in the industry starting between March - May 2025! Feel free to reach out if there are suitable positions!**
+
 News 
 ======
  (May 2024): Submitted multiple papers to NeurIPS on: (i) Multimodal VQA models, (ii) compositionality in t2i models, (iii) internal mechanistic understanding of ViTs and (iv) a new framework for copyright attribution in t2i models! 
