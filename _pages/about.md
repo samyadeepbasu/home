@@ -60,7 +60,7 @@ News
 
    > We find two sources of error which leads to erroneous compositionality in text-to-image models and mitigate it with a strong baseline!
    
-5. [From RAG to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries] (https://drive.google.com/file/d/1nKnGb8TMTO3sHFU4Ec9VMsjhiF07VEda/view?usp=sharing)
+5. [From RAG to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries](https://drive.google.com/file/d/1nKnGb8TMTO3sHFU4Ec9VMsjhiF07VEda/view?usp=sharing)
 
    > We mechanistically show a strong bias of language models towards using the context rather than using the parametric memory! Short paper.
    
