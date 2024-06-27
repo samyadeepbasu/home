@@ -77,7 +77,7 @@ Selected Publications
    **ICLR 2024**
    > We propose an interpretability framework + model editing method to ablate concepts from text-to-image models, fast!
    
-3. [Augmenting CLIP with Improved Visio-Linguistic Reasoning](https://arxiv.org/abs/2307.09233)
+3. [Distilling Knowledge From Text-to-Image Models Improves Visio-Linguistic Reasoning in CLIP](https://arxiv.org/abs/2307.09233)
 
    **Under Review**
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
