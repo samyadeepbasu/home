@@ -46,7 +46,9 @@ News
 ======
 1. [Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP](https://arxiv.org/abs/2406.01583)
 
-   > We interpret different components of vision transformers using text! Short version appearing at ICML mechanistic interpretability workshop as a Spotlight talk!
+   > We interpret different components of vision transformers using text!
+   
+   **Short version appearing at ICML mechanistic interpretability workshop as a Spotlight talk!**
   
 2. [Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models](https://arxiv.org/abs/2404.08030)
 
@@ -67,7 +69,7 @@ News
 
 Selected Publications
 ======
-1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://arxiv.org/abs/2405.01008))
+1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://arxiv.org/abs/2405.01008)
    
    **ICML 2024**
    > We investigate cross-attention layers in text-to-image models on knowledge storage!
