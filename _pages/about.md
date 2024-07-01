@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am Samyadeep Basu, a 3rd year CS PhD student at UMD, College Park (2022 - Present). I work with [Soheil Feizi](https://www.cs.umd.edu/~sfeizi/) in the [Center for Machine Learning](https://ml.umd.edu/). My research focus is reliable deep learning, where I build methods to understand models through the lens of data and control both generative and discriminative deep models using light-weight tweaks (aka model editing) or light-weight fine-tuning. Previously I received my MS from UMD in 2020 and then spent close to two years at Microsoft AI in the [ML rotation program](https://www.microsoftnewengland.com/maidap/). During my stint at Microsoft AI, I worked with the Language Science Team at [Azure AI](https://www.microsoft.com/en-us/research/group/cognitive-services-research/knowledge-and-language/) and [MSAI](https://www.microsoft.com/en-us/research/group/artificial-intelligence-research-munich/) where I researched, developed and deployed large-scale language models for various scenarios. 
 
-$${\color{red} Note: I am looking for Research Scientist positions in the industry starting between March - May 2025! Feel free to reach out if there are suitable positions!} $$ 
+$${\color{red} \text{Note: I am looking for Research Scientist positions in the industry starting between March - May 2025! Feel free to reach out if there are suitable positions!}} $$ 
 
 News 
 ======
