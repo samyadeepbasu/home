@@ -71,12 +71,12 @@ Selected Publications
 ======
 1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://arxiv.org/abs/2405.01008)
    
-   **ICML 2024**
+   **ICML 2024** [Project Poster](https://drive.google.com/file/d/1LyiLP3sWK09m7SJ9gYIXqdXGKD7ER2Gv/view?usp=sharing)
    > We investigate cross-attention layers in text-to-image models on knowledge storage!
      
 2. [Localizing and Editing Knowledge in Text-to-Image Models](https://arxiv.org/abs/2310.13730)
    
-   **ICLR 2024**
+   **ICLR 2024** [Project Poster](https://drive.google.com/file/d/1wyvOe1vhsE8eF_YeztvbMdlbbEXOoNmW/view?usp=sharing)
    > We propose an interpretability framework + model editing method to ablate concepts from text-to-image models, fast!
    
 3. [Distilling Knowledge From Text-to-Image Models Improves Visio-Linguistic Reasoning in CLIP](https://arxiv.org/abs/2307.09233)
