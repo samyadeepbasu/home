@@ -86,7 +86,7 @@ Selected Publications
      
 4. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
  
-   **Under Review** [Code](https://samyadeepbasu.github.io), [Webpage](https://deep-ml-research.github.io/editval/)
+   **Under Review** [Code](https://github.com/deep-ml-research/editval_code), [Webpage](https://deep-ml-research.github.io/editval/)
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
 
 5. [On Surgical Finetuning for Language Encoders](https://samyadeepbasu.github.io)
