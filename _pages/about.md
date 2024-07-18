@@ -91,7 +91,7 @@ Selected Publications
 
 5. [On Surgical Finetuning for Language Encoders](https://samyadeepbasu.github.io)
 
-   **EMNLP 2023**
+   **EMNLP 2023** [Code](https://github.com/ymtao5219/surgical_fine_tuning)
    > Method to surgically finetune language encoders with a subset of layers to perform close to full-finetuning!
    
 6. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
