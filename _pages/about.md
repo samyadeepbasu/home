@@ -48,7 +48,7 @@ News
 
    > We interpret different components of vision transformers using text!
    
-   **Short version appearing at ICML mechanistic interpretability workshop as a Spotlight talk!**
+   **Short version appearing at ICML 2024 mechanistic interpretability workshop as a Spotlight talk!**
   
 2. [Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models](https://arxiv.org/abs/2404.08030)
 
@@ -56,7 +56,9 @@ News
 
 3. [Understanding Information Storage and Transfer in Multimodal Language Models](https://arxiv.org/html/2406.04236v1)
 
-   > Causality based approaches for model interpretability and editing methods extended to multimodal language models (e.g., LLaVa) 
+   > Causality based approaches for model interpretability and editing methods extended to multimodal language models (e.g., LLaVa)
+
+   **Also appearing at ECCV 2024 KGM Workshop as Oral Presentation!**
 
 4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2406.07844)
 
@@ -68,7 +70,7 @@ Selected Publications
 ======
 1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://arxiv.org/abs/2405.01008)
    
-   **ICML 2024** [Project Poster](https://drive.google.com/file/d/1LyiLP3sWK09m7SJ9gYIXqdXGKD7ER2Gv/view?usp=sharing)
+   **ICML 2024** [Project Poster](https://drive.google.com/file/d/1LyiLP3sWK09m7SJ9gYIXqdXGKD7ER2Gv/view?usp=sharing) [Code](https://github.com/samyadeepbasu/LocoGen)
    > We investigate cross-attention layers in text-to-image models on knowledge storage!
      
 2. [Localizing and Editing Knowledge in Text-to-Image Models](https://arxiv.org/abs/2310.13730)
