@@ -14,7 +14,7 @@ Hi, I am Samyadeep Basu, a 3rd year CS PhD student at UMD, College Park (2022 - 
 
 News 
 ======
- (August 2024): Finished an exciting internship at Adobe Also excited to pass my PhD preliminary examination!
+ (August 2024): Finished an exciting internship at Adobe. Also excited to pass my PhD preliminary examination!
 
  (May 2024): Submitted multiple papers to NeurIPS on: (i) Multimodal VQA models, (ii) compositionality in t2i models, (iii) internal mechanistic understanding of ViTs and (iv) a new framework for copyright attribution in t2i models! 
  
