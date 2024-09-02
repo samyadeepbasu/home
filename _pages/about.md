@@ -14,7 +14,7 @@ Hi, I am Samyadeep Basu, a 3rd year CS PhD student at UMD, College Park (2022 - 
 
 News 
 ======
- (August 2024): Excited to pass my PhD preliminary examination!
+ (August 2024): Finished an exciting internship at Adobe Also excited to pass my PhD preliminary examination!
 
  (May 2024): Submitted multiple papers to NeurIPS on: (i) Multimodal VQA models, (ii) compositionality in t2i models, (iii) internal mechanistic understanding of ViTs and (iv) a new framework for copyright attribution in t2i models! 
  
@@ -31,8 +31,6 @@ News
  (July 2023): Excited to announce two new projects : (i) Improving CLIP using knowledge distillation from diffusion models; (ii) Benchmark for text-guided  image editing methods! 
  
  (June 2023): Started internship at Adobe Research! Working on interpretability + model editing for text-to-image generative models!
- 
- (April 2023): Our new pre-print on PEFT modules for few-shot fine-tuning is on [arXiv](https://arxiv.org/abs/2304.01917)!
  
  (Jan 2023): Paper on algorithm to design difficult few-shot tasks accepted at ICLR 2023!
  
