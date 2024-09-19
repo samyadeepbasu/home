@@ -109,10 +109,12 @@ Selected Publications
 
    **ICLR 2023** [Code](https://github.com/Samyadeep/HardMD) / [Media Coverage](https://www.microsoft.com/en-us/research/blog/frontiers-of-multimodal-learning-a-responsible-ai-approach/)
   > We propose a fast algorithm - FastDiffSel which can extract difficult few-shot tasks in a computational efficient way from large vision datasets!
+
 9. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) 
 
    **NAACL 2022 (SUKI)**
   > Propose empirical strategies to improve few-shot performance for joint intent classification and slot-filling.
+
 10. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
     
    **ICLR 2021**
