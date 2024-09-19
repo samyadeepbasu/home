@@ -82,37 +82,43 @@ Selected Publications
    
 3. [Distilling Knowledge From Text-to-Image Models Improves Visio-Linguistic Reasoning in CLIP](https://arxiv.org/abs/2307.09233)
 
-   **Under Review**
+   **EMNLP 2024 (Main)**
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
+
+4. [IntCoOp: Interpretability Aware Vision-Language Prompt Tuning](https://arxiv.org/abs/2406.13683)
+
+   **EMNLP 2024 (Main)**
+   > We propose a new prompt tuning method for VLMs by using inductive biases from interpretable image level attributes!
      
-4. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
+5. [EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods](https://arxiv.org/abs/2310.02426)
  
    **Under Review** [Code](https://github.com/deep-ml-research/editval_code), [Webpage](https://deep-ml-research.github.io/editval/)
   > We propose a new comprehensive benchmark for evaluating diffusion based editing methods!
 
-5. [On Surgical Finetuning for Language Encoders](https://samyadeepbasu.github.io)
+6. [On Surgical Finetuning for Language Encoders](https://samyadeepbasu.github.io)
 
    **EMNLP 2023** [Code](https://github.com/ymtao5219/surgical_fine_tuning)
    > Method to surgically finetune language encoders with a subset of layers to perform close to full-finetuning!
    
-6. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
+7. [Strong Baselines for Parameter-Efficient Few-Shot Fine-Tuning](https://arxiv.org/abs/2304.01917) 
 
    **AAAI 2024** [Code](https://github.com/Samyadeep/)
   > We propose two easy-to-implement strong baselines for PEFT which leads to SoTA on MD!
-7. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) 
+
+8. [Hard Meta-Dataset++: Towards Understanding Few-shot Performance on Difficult Tasks](https://openreview.net/pdf?id=wq0luyH3m4) 
 
    **ICLR 2023** [Code](https://github.com/Samyadeep/HardMD) / [Media Coverage](https://www.microsoft.com/en-us/research/blog/frontiers-of-multimodal-learning-a-responsible-ai-approach/)
   > We propose a fast algorithm - FastDiffSel which can extract difficult few-shot tasks in a computational efficient way from large vision datasets!
-8. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) 
+9. [Strategies to Improve Few-Shot Learning for Intent Classification and Slot Filling](https://arxiv.org/abs/2109.08754) 
 
    **NAACL 2022 (SUKI)**
   > Propose empirical strategies to improve few-shot performance for joint intent classification and slot-filling.
-9. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
+10. [Influence Functions in Deep Learning are Fragile](https://arxiv.org/abs/2006.14651) 
     
    **ICLR 2021**
   > End to end analysis of influence functions in deep learning!
 
-10. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
+11. [On Second-Order Group Influence Functions for Black-Box Predictions](http://proceedings.mlr.press/v119/basu20b.html) 
 
      **ICML 2020**
   > We propose second-order group influence functions, which are better suited to handle group effects!
