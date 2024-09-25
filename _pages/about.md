@@ -47,7 +47,7 @@ News
 **Recent Preprints**
 ======
 1. [Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP](https://arxiv.org/abs/2406.01583)
-
+   **NeurIPS 2024** 
    > We interpret different components of vision transformers using text!
    
    **Short version appearing at ICML 2024 mechanistic interpretability workshop as a Spotlight talk!**
@@ -57,7 +57,7 @@ News
    > A new framework for copyright infringement detection from text-to-image models!
 
 3. [Understanding Information Storage and Transfer in Multimodal Language Models](https://arxiv.org/html/2406.04236v1)
-
+   **NeurIPS 2024**
    > Causality based approaches for model interpretability and editing methods extended to multimodal language models (e.g., LLaVa)
 
    **Also appearing at ECCV 2024 KGM Workshop as Oral Presentation!**
