@@ -12,8 +12,6 @@ Hi, I am Samyadeep Basu, a 3rd year CS PhD student at UMD, College Park (2022 - 
 
 My latest CV can be accessed at: [CV](https://drive.google.com/file/d/1fpDMF078bSlExDIFAzOgMxJ2Smbe2gpe/view?usp=sharing).
 
-**Note: I am looking for Research Scientist positions in the industry starting between March - May 2025! Feel free to reach out if there are suitable positions!** 
-
 News 
 ======
  (August 2024): Finished an exciting internship at Adobe. Also excited to pass my PhD preliminary examination!
