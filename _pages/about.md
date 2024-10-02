@@ -14,6 +14,8 @@ My latest CV can be accessed at: [CV](https://drive.google.com/file/d/1fpDMF078b
 
 News 
 ======
+ (September 2024): 2 papers on mechanistic interpretability for vision models and MLLMs accepted to NeurIPS 2024! 2 papers on VLM compositionality, VLM prompt tuning accepted to EMNLP 2024 (Main)!
+ 
  (August 2024): Finished an exciting internship at Adobe. Also excited to pass my PhD preliminary examination!
 
  (May 2024): Submitted multiple papers to NeurIPS on: (i) Multimodal VQA models, (ii) compositionality in t2i models, (iii) internal mechanistic understanding of ViTs and (iv) a new framework for copyright attribution in t2i models! 
