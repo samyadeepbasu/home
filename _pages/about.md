@@ -82,7 +82,7 @@ Selected Publications
    
 3. [Distilling Knowledge From Text-to-Image Models Improves Visio-Linguistic Reasoning in CLIP](https://arxiv.org/abs/2307.09233)
 
-   **EMNLP 2024 (Main)**
+   **EMNLP 2024 (Main)** [Code](https://github.com/Soumya1612-Rasha/IntCoOp)
    > We propose a knowledge-distillation technique to improve reasoning abilities in CLIP!
 
 4. [IntCoOp: Interpretability Aware Vision-Language Prompt Tuning](https://arxiv.org/abs/2406.13683)
