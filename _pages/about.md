@@ -55,6 +55,7 @@ News
   
 2. [Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models](https://arxiv.org/abs/2404.08030)
 
+   **EvalEval @ Neurips 2024**
    > A new framework for copyright infringement detection from text-to-image models!
 
 3. [Understanding Information Storage and Transfer in Multimodal Language Models](https://arxiv.org/html/2406.04236v1)
