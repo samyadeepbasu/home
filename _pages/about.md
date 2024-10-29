@@ -66,6 +66,7 @@ News
    **Also appearing at ECCV 2024 KGM Workshop as Oral Presentation!**
 
 4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2406.07844)
+   
     [Website](https://t2i-compositionality-wiclp.github.io/)
    > We find two sources of error which leads to erroneous compositionality in text-to-image models and mitigate it with a strong baseline!
    
