@@ -70,7 +70,10 @@ News
     [Website](https://t2i-compositionality-wiclp.github.io/)
    > We find two sources of error which leads to erroneous compositionality in text-to-image models and mitigate it with a strong baseline!
    
-   
+
+5. [A Survey of Small Language Models](https://arxiv.org/abs/2410.20011)
+
+   > A comprehensive survey on how to create small language models! Collaborators across multiple universities and research labs!
 
 Selected Publications
 ======
