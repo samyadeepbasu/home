@@ -66,7 +66,7 @@ News
    **Also appearing at ECCV 2024 KGM Workshop as Oral Presentation!**
 
 4. [Understanding and Mitigating Compositionality Issues in Text-to-Image Models](https://arxiv.org/abs/2406.07844)
-
+    [Website](https://t2i-compositionality-wiclp.github.io/)
    > We find two sources of error which leads to erroneous compositionality in text-to-image models and mitigate it with a strong baseline!
    
    
@@ -75,12 +75,12 @@ Selected Publications
 ======
 1. [On Mechanistic Knowledge Localization in Text-to-Image Models](https://arxiv.org/abs/2405.01008)
    
-   **ICML 2024** [Project Poster](https://drive.google.com/file/d/1LyiLP3sWK09m7SJ9gYIXqdXGKD7ER2Gv/view?usp=sharing) [Code](https://github.com/samyadeepbasu/LocoGen)
+   **ICML 2024** [Project Poster](https://drive.google.com/file/d/1LyiLP3sWK09m7SJ9gYIXqdXGKD7ER2Gv/view?usp=sharing) [Code](https://github.com/samyadeepbasu/LocoGen) [Website](https://t2i-knowledge-localization.github.io/)
    > We investigate cross-attention layers in text-to-image models on knowledge storage!
      
 2. [Localizing and Editing Knowledge in Text-to-Image Models](https://arxiv.org/abs/2310.13730)
    
-   **ICLR 2024** [Project Poster](https://drive.google.com/file/d/1wyvOe1vhsE8eF_YeztvbMdlbbEXOoNmW/view?usp=sharing) [Code](https://github.com/adobe-research/DiffQuickFixRelease)
+   **ICLR 2024** [Project Poster](https://drive.google.com/file/d/1wyvOe1vhsE8eF_YeztvbMdlbbEXOoNmW/view?usp=sharing) [Code](https://github.com/adobe-research/DiffQuickFixRelease) [Website](https://samyadeepbasu.github.io/causal-knowledge-localization.github.io/)
    > We propose an interpretability framework + model editing method to ablate concepts from text-to-image models, fast!
    
 3. [Distilling Knowledge From Text-to-Image Models Improves Visio-Linguistic Reasoning in CLIP](https://arxiv.org/abs/2307.09233)
